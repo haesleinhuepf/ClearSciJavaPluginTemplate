@@ -79,7 +79,7 @@
 		<main-class>net.haesleinhuepf.projecttemplate.Main</main-class>
 		<license.licenseName>bsd_3</license.licenseName>
 		<license.copyrightOwners>Robert Haase</license.copyrightOwners>
-
+		<imagej.app.directory>C:/Programs/Fiji.app/</imagej.app.directory>
 	</properties>
 
 	<repositories>
