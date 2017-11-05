@@ -1,7 +1,7 @@
-package net.haesleinhuepf.projecttemplate;
+package de.mpicbg.rhaase;
 
+import de.mpicbg.rhaase.scijava.TranslateImagePlugin;
 import ij.ImagePlus;
-import net.haesleinhuepf.projecttemplate.scijava.TranslateImagePlugin;
 import net.imagej.ImageJ;
 import net.imglib2.Cursor;
 import net.imglib2.img.Img;

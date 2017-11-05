@@ -1,4 +1,4 @@
-package net.haesleinhuepf.projecttemplate.clearcl;
+package de.mpicbg.rhaase.clearcl;
 
 import clearcl.*;
 import clearcl.enums.HostAccessType;

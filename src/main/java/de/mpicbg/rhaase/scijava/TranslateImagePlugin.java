@@ -1,10 +1,10 @@
-package net.haesleinhuepf.projecttemplate.scijava;
+package de.mpicbg.rhaase.scijava;
 
 import clearcl.*;
 import clearcl.backend.ClearCLBackendInterface;
 import clearcl.backend.javacl.ClearCLBackendJavaCL;
 import net.haesleinhuepf.clearcl.utilities.ClearCLImageImgConverter;
-import net.haesleinhuepf.projecttemplate.clearcl.ClearCLTranslateImageOp;
+import de.mpicbg.rhaase.clearcl.ClearCLTranslateImageOp;
 import net.imglib2.img.Img;
 import net.imglib2.type.numeric.RealType;
 import net.imglib2.type.numeric.real.FloatType;

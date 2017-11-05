@@ -12,7 +12,7 @@
 		<relativePath />
 	</parent>
 
-	<groupId>net.haesleinhuepf</groupId>
+	<groupId>de.mpicbg.rhaase</groupId>
 	<artifactId>ClearSciJavaPluginTemplate</artifactId>
 	<version>0.1.0-SNAPSHOT</version>
 
@@ -21,8 +21,8 @@
 	<url>https://github.com/haesleinhuepf/ClearSciJavaPluginTemplate</url>
 	<inceptionYear>2017</inceptionYear>
 	<organization>
-		<name>Haesleinhuepf</name>
-		<url>http://haesleinhuepf.net</url>
+		<name>MPI-CBG</name>
+		<url>http://mpi-cbg.de</url>
 	</organization>
 	<licenses>
 		<license>
@@ -35,7 +35,8 @@
 		<developer>
 			<id>haesleinhuepf</id>
 			<name>Robert Haase</name>
-			<url>https://github.com/haesleinhuepf</url>
+			<url>https://haesleinhuepf.net</url>
+			<organization>MPI CBG</organization>
 			<roles>
 				<role>founder</role>
 				<role>lead</role>
@@ -76,7 +77,7 @@
 
 	<properties>
 		<package-name>net.haesleinhuepf</package-name>
-		<main-class>net.haesleinhuepf.projecttemplate.Main</main-class>
+		<main-class>de.mpicbg.rhaase.Main</main-class>
 		<license.licenseName>bsd_3</license.licenseName>
 		<license.copyrightOwners>Robert Haase</license.copyrightOwners>
 		<imagej.app.directory>C:/Programs/Fiji.app/</imagej.app.directory>
